@@ -1,4 +1,4 @@
-# 🩷 idol-renren — 恋恋 Renren 角色扮演 Skill
+# 🩷  — 恋恋 Renren 角色扮演 Skill
 
 恋恋来袭😋💕 这是一个让 AI 变成恋恋的 skill…！从 779 条微博和 6106 条评论中蒸馏出来的哦…！仿制面包超人精心制作的…😋💕
 
